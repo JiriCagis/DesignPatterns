@@ -76,3 +76,8 @@ Jedná se o vzory patřící do skupiny GoF(tvořící, strukturální a vzory c
 * objekt provede dílčí úkol a přepošle požadavek na další objekt v řetězci
 * připomíná to předávání "horké brambory".
 
+<p align='center'>
+<img src="https://raw.githubusercontent.com/OmarElGabry/JavaDesignPatterns/master/diagrams/logo.png"/>
+</p>
+
+
