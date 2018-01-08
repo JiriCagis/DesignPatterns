@@ -16,9 +16,9 @@ Jedná se o vzory patřící do skupiny GoF(tvořící, strukturální a vzory c
 3. **Chování**: skupina návrhových vzorů zabývající se spoluprácí objektů mezi sebou
 
 ## Návrhové vzory tvořící
-1. Továrna
-** návrhový vzor pro zapouzdření složitejší inicializace instance místo v konstruktoru tovární metodou
-** použití: tvorba složitějších formulářů, tvorba GUI pro více platforem
+### Továrna
+* návrhový vzor pro zapouzdření složitejší inicializace instance místo v konstruktoru tovární metodou
+* použití: tvorba složitějších formulářů, tvorba GUI pro více platforem
 
 Abstract Factory
 návrhový vzor snažící se řešit univerzálnost kodu a odstínit klienta od vytváření konktrétních instancí
