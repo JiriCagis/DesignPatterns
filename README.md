@@ -11,6 +11,6 @@ Jedná se o vzory patřící do skupiny GoF(tvořící, strukturální a vzory c
 
 
 ## Dělení
-1. Tvořící: skupina návrhových vzorů řešící proces vytváření objektů
-2. Strukturální: skupina návrhových vzorů řešící uspořádání jednotlivých tříd, objektů v systému
-3. Chování: skupina návrhových vzorů zabývající se spoluprácí objektů mezi sebou
+1. **Tvořící**: skupina návrhových vzorů řešící proces vytváření objektů
+2. **Strukturální**: skupina návrhových vzorů řešící uspořádání jednotlivých tříd, objektů v systému
+3. **Chování**: skupina návrhových vzorů zabývající se spoluprácí objektů mezi sebou
