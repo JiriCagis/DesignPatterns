@@ -5,5 +5,5 @@ Jedná se o vzory patřící do skupiny GoF(tvořící, strukturální a vzory c
 
 ## Co to je návrhový vzor ?
 * obecné řešení problému, které se opakuje při vývoji softwaru
-* není knihovnou nebo část zdrojového kodu, která by se dala přímo vložit do našeho systému, jedná se spíše o popis řešení problému
+* není to knihovna nebo část zdrojového kodu, která by se dala přímo vložit do našeho systému, jedná se spíše o popis řešení problému
 
