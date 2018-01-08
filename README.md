@@ -9,13 +9,14 @@ Jedná se o vzory patřící do skupiny GoF(tvořící, strukturální a vzory c
 * každý vzor je popsán množinou komunikujících tříd
 * hlavními tvůrci je skupina GoF (Gang of Four) - Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides - 1991
 
+![drawing](https://cms-assets.tutsplus.com/uploads/users/436/posts/22345/preview_image/simple-factory-design-pattern.jpg)
 
 ## Dělení
 1. **Tvořící**: skupina návrhových vzorů řešící proces vytváření objektů
 2. **Strukturální**: skupina návrhových vzorů řešící uspořádání jednotlivých tříd, objektů v systému
 3. **Chování**: skupina návrhových vzorů zabývající se spoluprácí objektů mezi sebou
 
-## Návrhové vzory tvořící
+## 1. Návrhové vzory tvořící
 ### Továrna
 * návrhový vzor pro zapouzdření složitejší inicializace instance místo v konstruktoru tovární metodou
 * použití: tvorba složitějších formulářů, tvorba GUI pro více platforem
@@ -38,7 +39,7 @@ Jedná se o vzory patřící do skupiny GoF(tvořící, strukturální a vzory c
 
 
 
-## Návrhové vzory strukturální
+## 2. Návrhové vzory strukturální
 ### Adapter
 * návrhový vzor řešící komunikaci dvou tříd, které nemají kompatabilní rozhraní, převádí rozhraní jedné třídy na jiné
 
@@ -53,7 +54,7 @@ Jedná se o vzory patřící do skupiny GoF(tvořící, strukturální a vzory c
 
 
 
-## Návrhové vzory chování
+## 3. Návrhové vzory chování
 ### Observer
 * návrhový vzor používaný v případě, kdy na jednom objektu je závislých mnoho dalších
 * poskytuje způsob jak předat informaci o změně svého vnitřního stavu ostatním závislým objektům
