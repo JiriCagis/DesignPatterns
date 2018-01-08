@@ -9,9 +9,9 @@ Jedná se o vzory patřící do skupiny GoF(tvořící, strukturální a vzory c
 * každý vzor je popsán množinou komunikujících tříd
 * hlavními tvůrci je skupina GoF (Gang of Four) - Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides - 1991
 
-<center>
-![drawing](https://cms-assets.tutsplus.com/uploads/users/436/posts/22345/preview_image/simple-factory-design-pattern.jpg)
-</center>
+<p align='center'>
+<img src="https://cms-assets.tutsplus.com/uploads/users/436/posts/22345/preview_image/simple-factory-design-pattern.jpg"/>
+</p>
 
 ## Dělení
 1. **Tvořící**: skupina návrhových vzorů řešící proces vytváření objektů
