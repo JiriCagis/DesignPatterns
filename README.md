@@ -15,7 +15,7 @@ Jedná se o vzory patřící do skupiny GoF(tvořící, strukturální a vzory c
 2. **Strukturální**: skupina návrhových vzorů řešící uspořádání jednotlivých tříd, objektů v systému
 3. **Chování**: skupina návrhových vzorů zabývající se spoluprácí objektů mezi sebou
 
-##Návrhové vzory tvořící
+## Návrhové vzory tvořící
 1. Továrna
 ** návrhový vzor pro zapouzdření složitejší inicializace instance místo v konstruktoru tovární metodou
 ** použití: tvorba složitějších formulářů, tvorba GUI pro více platforem
